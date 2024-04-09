@@ -2,8 +2,8 @@
 [CSV File - Fashion Retail Sales] (Fashion_Retail_Sales_Clean.csv)
 
 ## Project Description
-Write a short paragraph answer the following:
-Who are you helping?
+### Write a short paragraph answer the following:
+#### Who are you helping?
 What problem are you solving?
 How will you solve that problem?
 Explain how the project is inspired by a job post. Link to the job post saved as PDF in your repo.
