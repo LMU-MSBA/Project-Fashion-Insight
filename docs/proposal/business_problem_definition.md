@@ -50,13 +50,13 @@
 ###### Benefits: Improved customer retention, optimized inventory, and enhanced targeting of marketing efforts
 ## Determine Data Mining Goals
 ### Data Mining Goals aka Enabling Activities aka Data Activities
-##### Data Cleaning
-##### Data Integration
-##### Data Transformation
-##### Data Modeling
+###### Data Cleaning
+###### Data Integration
+###### Data Transformation
+###### Data Modeling
 ### Data Mining Success Criteria
-##### Reliable models with an acceptable level of prediction accuracy
-##### Dashboards with real-time data that reflect current business performance
+###### Reliable models with an acceptable level of prediction accuracy
+###### Dashboards with real-time data that reflect current business performance
 ## Produce Project Plan
 ### Initial Assessment of Tools (Technology) and Techniques (Analytics)
 #### Data Toolkit Items
