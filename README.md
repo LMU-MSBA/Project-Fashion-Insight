@@ -13,7 +13,7 @@ Explains the purpose of each directory (code, dashboards, data, docs, models, pr
 ### Dashboards
 ###### [Descriptive dashboard]
 ### Data
-###### [Cleaned CSV File - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/Fashion_Retail_Sales_Clean.csv)](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion_Retail_Sales_Clean.csv)
+###### [Cleaned CSV File - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/Fashion_Retail_Sales_Clean.csv)
 ### Docs
 ##### Code
 ##### Dashboards
