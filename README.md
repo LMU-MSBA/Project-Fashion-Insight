@@ -14,10 +14,24 @@ Explain the purpose of each directory (code, dashboards, data, docs, presentatio
 #### Tests
 
 ## Skills
-### List the skills used in the project for each of these categories:
-#### Business/Problem Solving
-#### Analytics
-#### Technology
+#### Business/Problem Solving:
+##### Strategic Planning: Developing and executing strategies to progress through the analytics maturity scale, and creating a roadmap to elevate the organization's analytics capabilities.
+##### Project Management: Utilizing project management techniques to oversee the execution of project sprints and deliverables efficiently.
+##### Decision-Making: Making informed decisions based on data insights, concerning organizational and cultural changes required for analytics transformation.
+##### Stakeholder Engagement: Communicating effectively with various stakeholders to align project goals with business objectives and ensuring buy-in.
+##### Problem Identification and Solution Formulation: Identifying underlying issues affecting customer satisfaction and proposing data-driven solutions.
+#### Analytics:
+##### Descriptive Analytics: Using data to understand past and present trends, summarizing them into actionable insights.
+##### Diagnostic Analytics: Investigating data to determine causes of events and behaviors; useful in understanding the root causes of rating declines.
+##### Predictive Analytics: Employing statistical models and machine learning techniques to predict future scenarios, like customer ratings or trends.
+##### Data Visualization: Creating informative visualizations that can depict complex datasets in a comprehensible manner for stakeholders.
+##### A/B Testing: Designing and analyzing experiments to test hypotheses, especially to compare different strategies' effectiveness on outcomes.
+#### Technology:
+##### ETL Processes: Designing and implementing processes to extract, transform, and load data into an accessible format for analysis.
+##### SQL and Python Programming: Using SQL for database queries and Python for more advanced data manipulation, analysis, and automation tasks.
+##### Data Modeling: Structuring databases and data warehouses to support efficient data queries and analysis.
+##### Data Governance: Establishing and maintaining standards and policies to ensure data integrity, quality, and security.
+##### Tool Proficiency: Utilizing tools like Tableau for data visualization, and various platforms for data warehousing and analytics.
 
 ## Analytics Maturity Scale
 Briefly explain each phase and list the project deliverables for each phase.
