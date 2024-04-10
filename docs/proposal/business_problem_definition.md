@@ -30,7 +30,7 @@
 ###### Data Governance Officer: Lily
 ###### Project Manager/Scrum Master: Taleen
 ##### Data
-###### Sales, customer feedback (review ratings), and market research data
+###### Purchases, customer feedback (review ratings), customer refernece ID and market research data
 ##### Computing Resources
 ###### Entity-Relationship Diagram (ERD) - tool for data modeling
 ###### ETL processes - facilitate the movement and transformation of data
@@ -52,7 +52,12 @@
 ###### Data Cleaning
 ###### Data Integration
 ###### Data Transformation
-###### Data Modeling
+###### Descriptive Model
+###### Descriptive Dashboard 
+###### Automated ETL Pipeline
+###### Diagnostic Analytics Dashboard 
+###### Predictive Model
+###### A/B Testing
 ### Data Mining Success Criteria
 ###### Reliable models with an acceptable level of prediction accuracy
 ###### Dashboards with real-time data that reflect current business performance
