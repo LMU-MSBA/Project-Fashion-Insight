@@ -7,6 +7,7 @@
 Explains the purpose of each directory (code, dashboards, data, docs, models, presentations) and links to the directory and subdirectories.
 ### README.md
 ### Code
+###### [Fashion Retail Dataset Cleaning Jupyter Notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion%20Retail%20Dataset%20Cleaning.ipynb)
 ##### Dashboards
 ###### [Diagnostic Dashboard]
 ###### [ETL](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/code/ETL/PythonInsertIntoSQL.ipynb)
@@ -17,7 +18,6 @@ Explains the purpose of each directory (code, dashboards, data, docs, models, pr
 ###### [Jupyter Notebook Cleaning Steps - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion%20Retail%20Dataset%20Cleaning.ipynb) 
 ###### [Cleaned CSV File - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/Fashion_Retail_Sales_Clean.csv)
 ### Docs
-##### Code
 ###### [Fashion Retail Dataset Cleaning Jupyter Notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion%20Retail%20Dataset%20Cleaning.ipynb)
 ##### Dashboards
 ##### Data
