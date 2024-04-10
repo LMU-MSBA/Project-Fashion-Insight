@@ -46,7 +46,7 @@ Explains the purpose of each directory (code, dashboards, data, docs, models, pr
 ###### SQL and Python Programming: Using SQL for database queries and Python for more advanced data manipulation, analysis, and automation tasks.
 ###### Data Modeling: Structuring databases and data warehouses to support efficient data queries and analysis.
 ###### Data Governance: Establishing and maintaining standards and policies to ensure data integrity, quality, and security.
-###### Tool Proficiency: Utilizing tools like Tableau for data visualization, and various platforms for data warehousing and analytics.
+###### Tool Proficiency: Utilizing tools like Tableau for data visualization, and platforms such as AWS RDS MySQL for data warehousing and analytics.
 
 ## Analytics Maturity Scale
 #### Aspire
