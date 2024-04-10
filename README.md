@@ -20,6 +20,7 @@ Explains the purpose of each directory (code, dashboards, data, docs, models, pr
 ##### Code
 ##### Dashboards
 ##### Data
+###### [Data Dictionary](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/data_dictionary.md)
 ###### [ERD](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/ERD.png)
 ###### [ETL Diagram](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/6080%20Project%20ETL%20Diagram%20(5).jpg)
 ###### [Data Governence Policy](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Data%20Governence%20Policy.docx)
