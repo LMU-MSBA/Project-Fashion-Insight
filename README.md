@@ -1,5 +1,4 @@
 # Group-04
-[CSV File - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/Fashion_Retail_Sales_Clean.csv)
 
 ## Project Description
 ### Write a short paragraph answer the following:
@@ -10,6 +9,8 @@
 
 ## Project Structure
 Explain the purpose of each directory (code, dashboards, data, docs, presentations, tests, etc.) and link to the directory. You do not have to explain the subdirectories.
+#### Data
+[Cleaned CSV File - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/Fashion_Retail_Sales_Clean.csv)
 
 ## Skills
 ### List the skills used in the project for each of these categories:
