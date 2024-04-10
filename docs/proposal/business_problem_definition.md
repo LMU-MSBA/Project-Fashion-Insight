@@ -36,7 +36,7 @@
 ###### ETL processes - facilitate the movement and transformation of data
 ###### AWS RDS MySQL - provides a scalable, secure, and highly available data warehousing solution that supports the storage, retrieval, and analysis of large datasets
 ##### Software
-###### SQL, Python for data analysis, Tableau for visualization, AWS RDS MySQL as data warehouse
+###### SQL, Python for data analysis, Tableau for visualization, AWS RDS MySQL as data warehouse, Excel to view the data
 ### Assumptions, and Constraints
 ###### Assumption that current data is sufficient and of high quality.
 ###### Requirement for real-time data integration.
