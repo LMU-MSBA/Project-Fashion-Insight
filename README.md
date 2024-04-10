@@ -6,11 +6,16 @@
 ## Project Structure
 Explain the purpose of each directory (code, dashboards, data, docs, presentations, tests, etc.) and link to the directory. You do not have to explain the subdirectories.
 #### Code
-[ETL](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/code/ETL/PythonInsertIntoSQL.ipynb)
+##### Dashboards
+##### ETL
+###### [ETL](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/code/ETL/PythonInsertIntoSQL.ipynb)
+##### Features
+##### Models
 #### Dashboards
 #### Data
-[Cleaned CSV File - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/Fashion_Retail_Sales_Clean.csv)
+###### [Cleaned CSV File - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/Fashion_Retail_Sales_Clean.csv)
 #### Docs
+##### Code
 [ERD](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/ERD.png)
 [ETL Diagram](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/6080%20Project%20ETL%20Diagram%20(5).jpg)
 [Data Governence Policy](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Data%20Governence%20Policy.docx)
