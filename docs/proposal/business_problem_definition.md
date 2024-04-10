@@ -69,6 +69,6 @@
 ###### Tableau
 ###### Data warehouses
 ###### APIs
-###### Alerst and notifications
+###### Alerts and notifications
 ### Project Plan
 ###### By setting clear objectives and key results, the project aims to deliver tangible outcomes that align with Alo Yoga's strategic goals. The project plan takes into consideration the current state of resources and capabilities, as well as the requirements to complete the project successfully within the given timeframe.
