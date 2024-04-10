@@ -3,13 +3,14 @@
 ### Background
 ##### Alo Yoga is a lifestyle brand focused on mindful movement, yoga, and bringing practice from the mat into daily life. They are looking for an Analytics Manager to lead their analytics and growth strategies to drive business growth in their retail operations.
 ### Business Activity Category
-##### Data Analysis (to understand and leverage customer behaviors and preferences)
-##### Data Reporting (to communicate findings to stakeholders)
-##### Predictive Analytics (to forecast market trends and customer needs)
-##### Data Management (to ensure data quality and availability for analysis)
-##### Focus on Business Area: The focus would primarily be on the Retail and Marketing departments
+###### Data Analysis (to understand and leverage customer behaviors and preferences)
+###### Data Reporting (to communicate findings to stakeholders)
+###### Predictive Analytics (to forecast market trends and customer needs)
+###### Data Management (to ensure data quality and availability for analysis)
+###### Focus on Business Area: The focus would primarily be on the Retail and Marketing departments
 ### OKR (Objectives and Key Results)
-##### Objective: Improve retail analytics to enhance customer experience and drive business growth.
+##### Objective: 
+###### Improve retail analytics to enhance customer experience and drive business growth.
 ##### SMART Key Results:
 ###### Increase customer satisfaction scores by 10% within the next fiscal year.
 ###### Achieve a 15% growth in sales volume through targeted marketing strategies informed by analytics within 6 months.
