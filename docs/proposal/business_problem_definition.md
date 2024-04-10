@@ -43,10 +43,10 @@
 ### Risks and Contingencies
 ###### Risk of data silos; contingency plan includes cross-departmental data integration strategies
 ### Terminology
-###### Customer Lifetime Value (CLV), churn rate: the percentage of subscribers who discontinue service subscriptions within a given time
+###### Customer Lifetime Value (CLV), Customer Experience Management (CEM), Customer Relationship Management (CRM), Customer Insight (quantitative data based on customer reviews), Churn Rate (percentage of customers who stop doing business)
 ### Costs and Benefits  
-###### Costs: Based on hourly rates for the analytics team and the expected hours to complete the project. Ex: hourly rate = $44, expected hours = 40 hours
-###### Benefits: Improved customer retention, optimized inventory, and enhanced targeting of marketing efforts
+###### Costs: Based on hourly rates for the analytics team and the expected hours to complete the project. Ex: hourly rate = $44, expected hours = 40 hours. 5 team members * $44/ hour * 40 hours = $8,800
+###### Benefits: Improved customer ratings/ retention, increased revenue due to increase customer satisfaction (increase in CLV), and enhanced targeting of marketing efforts
 ## Determine Data Mining Goals
 ### Data Mining Goals aka Enabling Activities aka Data Activities
 ###### Data Cleaning
