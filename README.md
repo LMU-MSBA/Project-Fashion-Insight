@@ -12,6 +12,7 @@ Explain the purpose of each directory (code, dashboards, data, docs, presentatio
 [Cleaned CSV File - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/Fashion_Retail_Sales_Clean.csv)
 #### Docs
 [ERD](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/ERD.png)
+[ETL Diagram](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/6080%20Project%20ETL%20Diagram%20(5).jpg)
 #### Presentations
 #### Tests
 
