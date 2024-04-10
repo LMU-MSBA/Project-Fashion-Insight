@@ -34,4 +34,18 @@ Explain the purpose of each directory (code, dashboards, data, docs, presentatio
 ###### Tool Proficiency: Utilizing tools like Tableau for data visualization, and various platforms for data warehousing and analytics.
 
 ## Analytics Maturity Scale
-Briefly explain each phase and list the project deliverables for each phase.
+#### Aspire
+###### The project starts to take form with preliminary analysis and setup
+###### Deliverables: Project README, Business Problem Definition, Dataset(s), Descriptive Analytics Dashboard, Descriptive Analytics, Presentation
+#### Mature
+###### Involves more in-depth analysis and refinement of data processes
+###### Deliverables: Data Governance Policy, ERD, MySQL Data Warehouse, Data Dictionary, ETL Pipeline, Data Lineage
+#### Industrialize
+###### Scaling and automating analytics processes
+###### Deliverables: Automated ETL Pipeline, Diagnostic Analytics Dashboard, Diagnostic Analytics Presentation
+#### Realize
+###### Begin to deliver tangible benefits and insights
+###### Deliverables: Predictive Model, A/B Test
+#### Differentiate
+###### Aims to set the project apart from others, through unique insights and innovations
+###### Deliverable: Data Manifesto
