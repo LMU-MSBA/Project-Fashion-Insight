@@ -5,8 +5,13 @@
 
 ## Project Structure
 Explain the purpose of each directory (code, dashboards, data, docs, presentations, tests, etc.) and link to the directory. You do not have to explain the subdirectories.
+#### Code
+#### Dashboards
 #### Data
 [Cleaned CSV File - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/Fashion_Retail_Sales_Clean.csv)
+#### Docs
+#### Presentations
+#### Tests
 
 ## Skills
 ### List the skills used in the project for each of these categories:
