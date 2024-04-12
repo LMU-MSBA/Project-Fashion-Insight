@@ -10,7 +10,7 @@
 ###### Focus on Business Area: The focus would primarily be on the Retail and Marketing departments
 ### OKR (Objectives and Key Results)
 ##### Objective: 
-###### Improve retail analytics to enhance customer experience/ satisfaction and drive business growth.
+###### Improve retail analytics to enhance customer satisfaction and drive business revenue.
 ##### SMART Key Results:
 ###### Increase customer satisfaction scores by 10% within the next fiscal year.
 ### OKR Initiatives
