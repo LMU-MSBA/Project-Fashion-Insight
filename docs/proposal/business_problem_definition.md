@@ -13,7 +13,7 @@ Increase Revenue
 ##### Objective: 
 ###### Improve retail analytics to enhance customer satisfaction and drive business revenue.
 ##### SMART Key Results:
-###### Increase customer satisfaction scores by 10% within the next fiscal year.
+###### Increase average product review ratings by % in the next month
 ### OKR Initiatives
 ###### Create a predictive analytics model to forecast sales and inventory needs based on review ratings and popular items bought
 ###### Establish real-time dashboards for performance metrics
