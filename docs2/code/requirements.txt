@@ -1,1 +1,32 @@
+# Basic packages for data handling and computation
+numpy==1.22.3
+pandas==1.4.1
 
+# SQL toolkit and Object-Relational Mapping (ORM) system
+SQLAlchemy==1.4.31
+
+# Python SQL toolkit for working with MySQL
+mysql-connector-python==8.0.28
+PyMySQL==1.0.2
+
+# Packages for data visualization in Python
+matplotlib==3.5.1
+seaborn==0.11.2
+
+# For advanced data manipulation
+scikit-learn==1.0.2
+
+# For creating and managing directed acyclic graphs of jobs
+apache-airflow==2.3.0
+
+# Package for handling API requests (if needed)
+requests==2.27.1
+
+# Development tools
+jupyter==1.0.0
+jupyterlab==3.3.2
+
+# For creating descriptive and diagnostic dashboards if using Python
+plotly==5.6.0
+dash==2.3.1
+dash-bootstrap-components==1.1.0
