@@ -11,7 +11,7 @@ Directory that contains source code, scripts, and programs for data processing a
 ##### dashboards
 ###### [diagnostic_dashboard.sql]
 ###### [etl](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/code/ETL/StarSchemaETL.ipynb)
-###### [models](https://github.com/LMU-MSBA/Project-Fashion-Insight/tree/main/code/models)
+###### [models](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/code/models/Predictive%20model%20.ipynb)
 ### dashboards
 Holds files related to visualizations made in Tableau that are final outputs to display
 ###### [descriptive_dashboard.twbx](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/dashboards/desccriptive_analytics_dashboard.twbx)
