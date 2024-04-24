@@ -6,8 +6,8 @@
 ## Project Structure
 Purpose of each directory (code, dashboards, data, docs, models, presentations) and links to the directory and subdirectories.
 ### README.md
-### code
-###### [Fashion Retail Dataset Cleaning Jupyter Notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion%20Retail%20Dataset%20Cleaning.ipynb)
+### code: directory that contains source code, scripts, and programs for data processing and model building
+###### [fashion_retail_dataset_cleaning_jupyter_notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion%20Retail%20Dataset%20Cleaning.ipynb)
 ##### dashboards
 ###### [diagnostic_dashboard.sql]
 ###### [etl](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/code/ETL/PythonInsertIntoSQL.ipynb)
