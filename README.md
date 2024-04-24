@@ -7,7 +7,7 @@ Purpose of each directory and links to the directory and subdirectories.
 ### README.md
 ### code
 #### Directory that contains source code, scripts, and programs for data processing and model building
-###### [fashion_retail_dataset_cleaning_jupyter_notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion%20Retail%20Dataset%20Cleaning.ipynb)
+###### [fashion_retail_dataset_cleaning_jupyter_notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/data/Fashion%20Retail%20Dataset%20Cleaning%20(1).ipynb)
 ##### dashboards
 ###### [diagnostic_dashboard.sql]
 ###### [etl](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/code/ETL/StarSchemaETL.ipynb)
