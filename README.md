@@ -15,7 +15,7 @@ Directory that contains source code, scripts, and programs for data processing a
 ### dashboards
 Holds files related to visualizations made in Tableau that are final outputs to display
 ###### [descriptive_dashboard.twbx](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/dashboards/desccriptive_analytics_dashboard.twbx)
-###### [diagnostic_dashboard.twbx]
+###### [diagnostic_dashboard.twbx](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/dashboards/Diagnostic%20Analytics%20Dashboard.twbx)
 ### data
 Manages the datasets utilized and categoriezes data into different types like external, raw, and processed
 ###### [raw_csv_file_fashion_retail_sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/data/Fashion_Retail_Sales%20(1).csv)
