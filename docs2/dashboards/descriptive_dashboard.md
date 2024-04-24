@@ -1,5 +1,5 @@
-## Title
-Fashion Company Rating and Revenue Correlation Dashboard
+## Descriptive Analytics Dashboard for Alo Yoga
+Fashion Insight Rating and Revenue Correlation Dashboard
 ## Purpose
 The dashboard is designed to analyze the relationship between customer satisfaction (as reflected by product ratings) and financial performance (measured by revenue and sales count). This analysis can guide marketing strategies, product development, customer service improvements, and inventory management.
 ## Audience
