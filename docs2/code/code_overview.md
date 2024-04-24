@@ -9,4 +9,4 @@ The Jupyter notebook contains detailed steps and Python code used for cleaning a
 ###### Transforming data formats
 ###### Calculating new features, such as total sales per transaction
 ### Usage Examples
-[Data Cleaning Steps]
+[Data Cleaning Steps](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/data/Fashion%20Retail%20Dataset%20Cleaning%20(1).ipynb)
