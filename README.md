@@ -31,7 +31,7 @@ Purpose of each directory and links to the directory and subdirectories.
 ###### [descriptive_dashboard.md]
 ###### [diagnostic_dashboard.md]
 ##### data
-###### [ERD.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/ERD/ERD.pdf)
+###### [ERD.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/ERD/ERD%20(1).pdf)
 ###### [automated_data_pipeline.pdf]
 ###### [data_dictionary](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/data_dictionary.md)
 ###### [data_governance_policy](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Data%20Governence%20Policy.docx)
