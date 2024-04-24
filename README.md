@@ -11,7 +11,7 @@ Purpose of each directory and links to the directory and subdirectories.
 ###### [fashion_retail_dataset_cleaning_jupyter_notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion%20Retail%20Dataset%20Cleaning.ipynb)
 ##### dashboards
 ###### [diagnostic_dashboard.sql]
-###### [etl](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/code/ETL/PythonInsertIntoSQL.ipynb)
+###### [etl](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/Code/ETL/PythonInsertIntoSQL.ipynb)
 ###### [features]
 ###### [models]
 ### dashboards
