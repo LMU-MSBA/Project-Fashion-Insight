@@ -18,23 +18,23 @@ Purpose of each directory and links to the directory and subdirectories.
 #### Holds files related to visualizations made in Tableau that are final outputs to display
 ###### [descriptive_dashboard.twbx]
 ###### [diagnostic_dashboard.twbx]
-### Data
+### data
 #### Manages the datasets utilized and categoriezes data into different types like external, raw, and processed
-###### [Raw CSV File - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion_Retail_Sales.csv)
-###### [Jupyter Notebook Cleaning Steps - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion%20Retail%20Dataset%20Cleaning.ipynb) 
-###### [Cleaned CSV File - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/Fashion_Retail_Sales_Clean.csv)
-### Docs
+###### [raw_csv_file - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion_Retail_Sales.csv)
+###### [jupyter_notebook_cleaning_steps_fashion_retail_sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion%20Retail%20Dataset%20Cleaning.ipynb) 
+###### [cleaned_csv_file_fashion_retail_sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/Fashion_Retail_Sales_Clean.csv)
+### docs
 #### Storing documentation like code explanations, dashboard guides, dictionaries, and proposals
-###### [Fashion Retail Dataset Cleaning Jupyter Notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion%20Retail%20Dataset%20Cleaning.ipynb)
-##### Dashboards
-##### Data
-###### [Data Dictionary](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/data_dictionary.md)
-###### [ERD](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/ERD.png)
-###### [ETL Diagram](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/6080%20Project%20ETL%20Diagram%20(5).jpg)
-###### [Data Governence Policy](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Data%20Governence%20Policy.docx)
-### Models
+###### [fashion_retail_dataset_cleaning_jupyter_notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion%20Retail%20Dataset%20Cleaning.ipynb)
+##### dashboards
+##### data
+###### [data_dictionary](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/data_dictionary.md)
+###### [erd](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/ERD.png)
+###### [etl_diagram](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/6080%20Project%20ETL%20Diagram%20(5).jpg)
+###### [data_governance_policy](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Data%20Governence%20Policy.docx)
+### models
 #### Holds model definitions, training details, and outputs related to our predictive model
-### Presentations
+### presentations
 #### Includes presentation materials like slides, analysis reports to communicate findings
 
 ## Skills
