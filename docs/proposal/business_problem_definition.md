@@ -15,7 +15,7 @@ Increase Revenue
 ##### SMART Key Results:
 ###### Increase average product review ratings by % in the next month
 ### OKR Initiatives
-###### Create a predictive analytics model to forecast sales and inventory needs based on review ratings and popular items bought
+###### Create a predictive analytics model to forecast sales and inventory needs based on review ratings
 ###### Establish real-time dashboards for performance metrics
 ##### Project’s Deliverables:
 ###### Data Analysis Reports
