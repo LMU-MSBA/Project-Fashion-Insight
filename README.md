@@ -24,6 +24,7 @@ Purpose of each directory and links to the directory and subdirectories.
 ###### [jupyter_notebook_cleaning_steps_fashion_retail_sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/data/Fashion%20Retail%20Dataset%20Cleaning%20(1).ipynb)
 ###### [cleaned_csv_file_fashion_retail_sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/data/Fashion_Retail_Sales_Clean%20(1).csv)
 ### docs
+##### code
 #### Storing documentation like code explanations, dashboard guides, dictionaries, and proposals
 ###### [fashion_retail_dataset_cleaning_jupyter_notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion%20Retail%20Dataset%20Cleaning.ipynb)
 ##### dashboards
@@ -32,11 +33,21 @@ Purpose of each directory and links to the directory and subdirectories.
 ###### [erd](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/ERD/ERD.pdf)
 ###### [etl_diagram](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/6080%20Project%20ETL%20Diagram%20(5).jpg)
 ###### [data_governance_policy](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Data%20Governence%20Policy.docx)
+##### media
+##### proposal
+###### [business_problem_definition.md]
+###### [COMPANY_JOB_TITLE.pdf]
+###### [project_proposal_PROJECT_NAME.pdf]
+##### refernces
 ### models
 #### Holds model definitions, training details, and outputs related to our predictive model
+###### [predictive_model.md]
 ### presentations
 #### Includes presentation materials like slides, analysis reports to communicate findings
-
+###### [descriptive_dashboard_analysis.pdf]
+###### [diagnostic_dashboard_analysis.pdf]
+###### [project_milestone_01.pdf]
+###### [project_milestone_02.pdf]
 ## Skills
 #### Business/Problem Solving:
 ###### Strategic Planning: Developing and executing strategies to progress through the analytics maturity scale, and creating a roadmap to elevate the organization's analytics capabilities.
