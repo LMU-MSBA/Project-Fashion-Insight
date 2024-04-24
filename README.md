@@ -50,7 +50,7 @@ Holds model definitions, training details, and outputs related to our predictive
 ###### [predictive_model.md]
 ### presentations
 Includes presentation materials like slides, analysis reports to communicate findings
-###### [descriptive_dashboard_analysis.pdf]
+###### [descriptive_dashboard_analysis.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/presentations/descriptive_dashboard_analysis.pdf)
 ###### [diagnostic_dashboard_analysis.pdf]
 ###### [project_milestone_01.pdf]
 ###### [project_milestone_02.pdf]
