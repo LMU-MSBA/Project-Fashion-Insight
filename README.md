@@ -29,7 +29,7 @@ Purpose of each directory and links to the directory and subdirectories.
 ##### dashboards
 ##### data
 ###### [data_dictionary](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/data_dictionary.md)
-###### [erd](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/ERD.png)
+###### [erd](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/ERD/ERD.pdf)
 ###### [etl_diagram](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/6080%20Project%20ETL%20Diagram%20(5).jpg)
 ###### [data_governance_policy](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Data%20Governence%20Policy.docx)
 ### models
