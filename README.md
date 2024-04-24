@@ -53,7 +53,7 @@ Includes presentation materials like slides, analysis reports to communicate fin
 ###### [descriptive_dashboard_analysis.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/presentations/descriptive_dashboard_analysis.pdf)
 ###### [diagnostic_dashboard_analysis.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/presentations/Diagnostic%20Analytics%20Presentation.pdf)
 ###### [project_milestone_01.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/presentations/Project%20Fashion%20Insight%20Sprint%2001%20(1).pdf)
-###### [project_milestone_02.pdf]
+###### [project_milestone_02.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/presentations/Sprint02%20Presentation%20-%20Project%20Fashion%20Insight.pdf)
 ## Skills
 #### Business/Problem Solving:
 ###### Strategic Planning: Developing and executing strategies to progress through the analytics maturity scale, and creating a roadmap to elevate the organization's analytics capabilities.
