@@ -1,7 +1,7 @@
 # Group-04
 ## Determine Business Objectives
 ### Background
-##### Alo Yoga is a lifestyle brand focused on mindful movement, yoga, and bringing practice from the mat into daily life. They are looking for an Analytics Manager to lead their analytics and growth strategies to drive business growth in their retail operations.
+Alo Yoga is a lifestyle brand focused on mindful movement, yoga, and bringing practice from the mat into daily life. They are looking for an Analytics Manager to lead their analytics and growth strategies to drive business growth in their retail operations.
 ### Business Activity Category
 Increase Revenue
 ###### Data Analysis: to understand and leverage customer reviews, ratings and preferences
