@@ -15,7 +15,7 @@ Purpose of each directory and links to the directory and subdirectories.
 ###### [models]
 ### dashboards
 #### Holds files related to visualizations made in Tableau that are final outputs to display
-###### [descriptive_dashboard.twbx]
+###### [descriptive_dashboard.twbx](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/dashboards/desccriptive_analytics_dashboard.twbx)
 ###### [diagnostic_dashboard.twbx]
 ### data
 #### Manages the datasets utilized and categoriezes data into different types like external, raw, and processed
