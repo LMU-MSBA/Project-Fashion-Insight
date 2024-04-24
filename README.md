@@ -31,7 +31,7 @@ Storing documentation like code explanations, dashboard guides, dictionaries, an
 ###### [diagnostic_dashboard.md]
 ##### data
 ###### [ERD.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/ERD/ERD%20(1).pdf)
-###### [automated_data_pipeline.pdf]
+###### [automated_data_pipeline.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/automated_data_pipeline.pdf)
 ###### [data_dictionary](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/data_dictionary.md)
 ###### [data_governance_policy](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/data_governence_policy.md)
 ###### [data_lineage.pdf]
