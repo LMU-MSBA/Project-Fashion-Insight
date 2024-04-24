@@ -31,7 +31,7 @@ Increase Revenue
 ###### Data Governance Officer: Lily
 ###### Project Manager/Scrum Master: Kendall
 ##### Data
-###### Purchases, customer feedback (review ratings), customer reference ID and market research data
+###### Purchase amount, items purchased, customer feedback (review ratings), customer reference ID, date purchased, and payment method
 ##### Computing Resources
 ###### Entity-Relationship Diagram (ERD) - tool for data modeling
 ###### ETL processes - facilitate the movement and transformation of data
