@@ -6,7 +6,7 @@ In our project "Fashion Insight: Unveiling the Mystery Behind Rating Decline," o
 Purpose of each directory and links to the directory and subdirectories.
 ### README.md
 ### code
-#### Directory that contains source code, scripts, and programs for data processing and model building
+Directory that contains source code, scripts, and programs for data processing and model building
 ###### [fashion_retail_dataset_cleaning_jupyter_notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/data/Fashion%20Retail%20Dataset%20Cleaning%20(1).ipynb)
 ##### dashboards
 ###### [diagnostic_dashboard.sql]
@@ -14,16 +14,16 @@ Purpose of each directory and links to the directory and subdirectories.
 ###### [features]
 ###### [models](https://github.com/LMU-MSBA/Project-Fashion-Insight/tree/main/code/models)
 ### dashboards
-#### Holds files related to visualizations made in Tableau that are final outputs to display
+Holds files related to visualizations made in Tableau that are final outputs to display
 ###### [descriptive_dashboard.twbx](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/dashboards/desccriptive_analytics_dashboard.twbx)
 ###### [diagnostic_dashboard.twbx]
 ### data
-#### Manages the datasets utilized and categoriezes data into different types like external, raw, and processed
+Manages the datasets utilized and categoriezes data into different types like external, raw, and processed
 ###### [raw_csv_file_fashion_retail_sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/data/Fashion_Retail_Sales%20(1).csv)
 ###### [jupyter_notebook_cleaning_steps_fashion_retail_sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/data/Fashion%20Retail%20Dataset%20Cleaning%20(1).ipynb)
 ###### [cleaned_csv_file_fashion_retail_sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/data/Fashion_Retail_Sales_Clean%20(1).csv)
 ### docs
-#### Storing documentation like code explanations, dashboard guides, dictionaries, and proposals
+Storing documentation like code explanations, dashboard guides, dictionaries, and proposals
 ##### code
 ###### [code_overview.md]
 ###### [requirements.txt]
@@ -46,10 +46,10 @@ Purpose of each directory and links to the directory and subdirectories.
 ###### [project_proposal_PROJECT_FASHION_INSIGHT.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs/proposal/project_proposal_Project%20Fashion%20Insight.pdf)
 ##### refernces
 ### models
-#### Holds model definitions, training details, and outputs related to our predictive model
+Holds model definitions, training details, and outputs related to our predictive model
 ###### [predictive_model.md]
 ### presentations
-#### Includes presentation materials like slides, analysis reports to communicate findings
+Includes presentation materials like slides, analysis reports to communicate findings
 ###### [descriptive_dashboard_analysis.pdf]
 ###### [diagnostic_dashboard_analysis.pdf]
 ###### [project_milestone_01.pdf]
