@@ -65,11 +65,11 @@ Increase Revenue
 ## Produce Project Plan
 ### Initial Assessment of Tools (Technology) and Techniques (Analytics)
 #### Data Toolkit Items
-###### SQL databases
-###### Python for statistical analysis
-###### Tableau
-###### Data warehouses
-###### APIs
-###### Alerts and notifications
+###### SQL databases: data storage for customer id, sales, date purchased, item purchased, review rating, and payment method. Offers fast qurying capabilities
+###### Python for statistical analysis: data manipulation, statistical analysis, and machine learning to build our predictive model
+###### Tableau: creating and sharing our dashboards that visualize trends, consumer behavior, and satisfaction
+###### Data warehouses: consolidates data from multiple sources, a centralized repository
+###### APIs: retrieve and store information from external sources
+###### Alerts and notifications: set up to monitor metrics and inform decisions quickly
 ### Project Plan
 ###### By setting clear objectives and key results, the project aims to deliver tangible outcomes that align with Alo Yoga's strategic goals. The project plan takes into consideration the current state of resources and capabilities, as well as the requirements to complete the project successfully within the given timeframe.
