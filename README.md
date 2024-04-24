@@ -34,7 +34,7 @@ Purpose of each directory and links to the directory and subdirectories.
 ###### [data_governance_policy](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Data%20Governence%20Policy.docx)
 ##### media
 ##### proposal
-###### [business_problem_definition.md]
+###### [business_problem_definition.md](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs/proposal/business_problem_definition.md)
 ###### [ALO_ANALYTICS_MANAGER.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs/proposal/Job%20Posting%20-%20Alo%20Analytics%20Manager%20-%20Beverly%20Hills%2C%20CA%20-%20Indeed.pdf)
 ###### [project_proposal_PROJECT_FASHION_INSIGHT.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs/proposal/project_proposal_Project%20Fashion%20Insight.pdf)
 ##### refernces
