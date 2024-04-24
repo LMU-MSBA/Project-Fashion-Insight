@@ -37,7 +37,7 @@ Purpose of each directory and links to the directory and subdirectories.
 ##### proposal
 ###### [business_problem_definition.md]
 ###### [COMPANY_JOB_TITLE.pdf]
-###### [project_proposal_PROJECT_NAME.pdf]
+###### [project_proposal_PROJECT_FASHION_INSIGHT.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs/proposal/project_proposal_Project%20Fashion%20Insight.pdf)
 ##### refernces
 ### models
 #### Holds model definitions, training details, and outputs related to our predictive model
