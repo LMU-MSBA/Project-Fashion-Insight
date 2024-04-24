@@ -24,7 +24,7 @@ Manages the datasets utilized and categoriezes data into different types like ex
 ### docs
 Storing documentation like code explanations, dashboard guides, dictionaries, and proposals
 ##### code
-###### [code_overview.md]
+###### [code_overview.md](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/code/code_overview.md)
 ###### [requirements.txt]
 ##### dashboards
 ###### [descriptive_dashboard.md]
