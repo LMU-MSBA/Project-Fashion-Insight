@@ -47,7 +47,7 @@ Storing documentation like code explanations, dashboard guides, dictionaries, an
 ##### [refernces](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/references/Refernces.md)
 ### models
 Holds model definitions, training details, and outputs related to our predictive model
-###### [predictive_model.md]
+###### [predictive_model.md](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/models/predictive_model.md)
 ### presentations
 Includes presentation materials like slides, analysis reports to communicate findings
 ###### [descriptive_dashboard_analysis.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/presentations/descriptive_dashboard_analysis.pdf)
