@@ -28,7 +28,7 @@ Storing documentation like code explanations, dashboard guides, dictionaries, an
 ###### [requirements.txt](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/code/requirements.txt)
 ##### dashboards
 ###### [descriptive_dashboard.md](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/dashboards/descriptive_dashboard.md)
-###### [diagnostic_dashboard.md]
+###### [diagnostic_dashboard.md](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/dashboards/diagnostic_dashboard.md)
 ##### data
 ###### [ERD.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/ERD/ERD%20(1).pdf)
 ###### [automated_data_pipeline.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/automated_data_pipeline.pdf)
