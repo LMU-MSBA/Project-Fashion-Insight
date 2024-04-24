@@ -25,11 +25,11 @@ Increase Revenue
 ## Assess Situation
 ### Inventory of Resources
 ##### Personnel
-###### Data Analyst: Kendall
+###### Data Analyst: Taleen
 ###### Data Engineer: Kali
 ###### Data Scientist: Karen
 ###### Data Governance Officer: Lily
-###### Project Manager/Scrum Master: Taleen
+###### Project Manager/Scrum Master: Kendall
 ##### Data
 ###### Purchases, customer feedback (review ratings), customer reference ID and market research data
 ##### Computing Resources
