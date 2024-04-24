@@ -21,7 +21,7 @@ Purpose of each directory and links to the directory and subdirectories.
 ### data
 #### Manages the datasets utilized and categoriezes data into different types like external, raw, and processed
 ###### [raw_csv_file - Fashion Retail Sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion_Retail_Sales.csv)
-###### [jupyter_notebook_cleaning_steps_fashion_retail_sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Fashion%20Retail%20Dataset%20Cleaning.ipynb) 
+###### [jupyter_notebook_cleaning_steps_fashion_retail_sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/data/Fashion%20Retail%20Dataset%20Cleaning%20(1).ipynb)
 ###### [cleaned_csv_file_fashion_retail_sales](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/Fashion_Retail_Sales_Clean.csv)
 ### docs
 #### Storing documentation like code explanations, dashboard guides, dictionaries, and proposals
