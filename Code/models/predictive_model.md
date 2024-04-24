@@ -28,10 +28,7 @@ To use this model to make predictions, follow these preprocessing steps on your 
 2. **Date Processing**: Extract year, month, and day from the transaction date.
 3. **Normalize or Scale Data**: If your model training involved data normalization or scaling, apply the same transformation to new data.
 
-Example Python snippet for making predictions:
-```python
-import pandas as pd
-from sklearn.externals import joblib
 
-#Conclusion
+
+## Conclusion
 This model provides a foundation for understanding and predicting customer satisfaction through review ratings. It should be continually monitored and updated as more data becomes available or as business needs evolve.
