@@ -13,7 +13,7 @@ Directory that contains source code, scripts, and programs for data processing a
 ##### etl
 ###### [star_schema_etl](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/code/ETL/StarSchemaETL.ipynb)
 ##### models
-###### [predictive_model.ipynb](https://github.com/LMU-MSBA/Project-Fashion-Insight/tree/main/code/models)
+###### [predictive_model.ipynb](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/code/models/Predictive%20model%20.ipynb)
 ###### [XGBoost.ipynb]
 ### dashboards
 Holds files related to visualizations made in Tableau that are final outputs to display
