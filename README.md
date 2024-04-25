@@ -10,8 +10,11 @@ Directory that contains source code, scripts, and programs for data processing a
 ###### [fashion_retail_dataset_cleaning_jupyter_notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/data/Fashion%20Retail%20Dataset%20Cleaning%20(1).ipynb)
 ##### dashboards
 ###### [diagnostic_dashboard.sql](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/code/dashboards/diagnostic-analytics-sql.sql)
-###### [etl](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/code/ETL/StarSchemaETL.ipynb)
-###### [models](https://github.com/LMU-MSBA/Project-Fashion-Insight/tree/main/code/models)
+##### etl
+###### [star_schema_etl](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/code/ETL/StarSchemaETL.ipynb)
+##### models
+###### [predictive_model.ipynb](https://github.com/LMU-MSBA/Project-Fashion-Insight/tree/main/code/models)
+###### [XGBoost.ipynb]
 ### dashboards
 Holds files related to visualizations made in Tableau that are final outputs to display
 ###### [descriptive_dashboard.twbx](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/dashboards/desccriptive_analytics_dashboard.twbx)
