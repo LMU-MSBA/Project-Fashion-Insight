@@ -34,7 +34,6 @@ Storing documentation like code explanations, dashboard guides, dictionaries, an
 ###### [automated_data_pipeline.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/automated_data_pipeline.pdf)
 ###### [data_dictionary](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/data_dictionary.md)
 ###### [data_governance_policy](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/data_governence_policy.md)
-###### [data_lineage.pdf]
 ###### [data_manifesto.md](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/data_manifesto.md)
 ###### [data_manifesto_jupyter_notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Projected%20Sales%20for%20Data%20Manifesto.ipynb)
 ###### [etl_diagram](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/etl_diagram.pdf)
