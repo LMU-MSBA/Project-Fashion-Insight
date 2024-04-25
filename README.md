@@ -41,7 +41,7 @@ Storing documentation like code explanations, dashboard guides, dictionaries, an
 ###### [data_manifesto_jupyter_notebook](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/Projected%20Sales%20for%20Data%20Manifesto.ipynb)
 ###### [etl_diagram](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs2/data/etl_diagram.pdf)
 ##### proposal
-###### [A/B_test](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs/proposal/AB_Test_Presentation.docx)
+###### [A/B_test.md](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs/proposal/AB_test.md)
 ###### [business_problem_definition.md](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs/proposal/business_problem_definition.md)
 ###### [ALO_ANALYTICS_MANAGER.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs/proposal/Job%20Posting%20-%20Alo%20Analytics%20Manager%20-%20Beverly%20Hills%2C%20CA%20-%20Indeed.pdf)
 ###### [project_proposal_PROJECT_FASHION_INSIGHT.pdf](https://github.com/LMU-MSBA/Project-Fashion-Insight/blob/main/docs/proposal/project_proposal_Project%20Fashion%20Insight.pdf)
